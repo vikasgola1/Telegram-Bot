@@ -124,6 +124,3 @@ Developer koi zimmedari nahi leta.
 
 ______________
 
-⭐ 8. Credits
-
-Source Giveaway By: @IndianWatchdogs / @Indian_Hackers_Team
